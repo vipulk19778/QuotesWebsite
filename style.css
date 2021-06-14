@@ -18,9 +18,9 @@ body {
     position: absolute;
     top: 15%;
     left: 25%;
-    transfrom: translate(-15%, -25%);
-    -webkit-transfrom: translate(-15%, -25%);
-    -moz-transfrom: translate(-15%, -25%);
+/*     transfrom: translate(-50%, -50%);
+    -webkit-transfrom: translate(-50%, -50%);
+    -moz-transfrom: translate(-50%, -50%); */
     border-radius: 5px;
     color: #797d75;
     display: grid;
@@ -136,7 +136,7 @@ body {
         width: 90vw;
         height: 85vh;
         left: 5%;
-        top: 8%;
+        top: 5%;
     }
     .inner {
         width: 90vw;
