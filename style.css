@@ -131,7 +131,7 @@ body {
     padding: 8px 0 5px 0;
 }
 
-@media only screen and (max-width: 462px) {
+@media only screen and (max-width: 470px) {
     .container {
         width: 90vw;
         height: 85vh;
@@ -177,7 +177,7 @@ body {
     }
 }
 
-@media only screen and (min-width: 462px) and (max-width:768px) {
+@media only screen and (min-width: 470px) and (max-width:768px) {
     .container {
         width: 85vw;
         height: 85vh;
